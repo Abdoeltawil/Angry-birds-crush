@@ -1,0 +1,44 @@
+﻿  Source.cpp
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(56): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(110): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(111): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(174): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(175): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(176): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(177): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(178): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(258): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(259): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(260): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(261): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(262): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(314): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(315): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(353): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(354): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(394): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(395): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(534): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(541): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(548): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(555): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(562): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(574): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(588): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(864): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(865): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(891): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(892): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(924): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(925): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(949): warning C4305: '+=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(950): warning C4305: '-=': truncation from 'double' to 'float'
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(1375): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(1376): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(1058): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(1074): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(1077): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(1081): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(1030): warning C4101: 'tarr': unreferenced local variable
+d:\angrybirdscrushgame\angrybirdscrushgame\source.cpp(1030): warning C4101: 'n': unreferenced local variable
+  angryBirdsCrushGame.vcxproj -> D:\angryBirdsCrushGame\Debug\angryBirdsCrushGame.exe
